@@ -100,4 +100,4 @@ public class Part_1_test {
 
         scanner.close();
     }
-}
+}//End of the class
